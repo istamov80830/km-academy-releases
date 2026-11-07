@@ -1,12 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T12:28:25.692Z",
+  "updatedAt": "2026-11-07T12:28:56.587Z",
   "minVersion": "",
   "maxOfflineDays": 14,
-  "revoked": [
-    {
-      "id": "a8501f733e1bb3027dc33c24",
-      "at": "2026-11-07"
-    }
-  ]
+  "revoked": []
 }
